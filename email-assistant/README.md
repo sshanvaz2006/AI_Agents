@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ✉️ Smart Email Assistant
 
 An AI-powered agent that composes professional emails — job applications, leave
@@ -169,6 +168,3 @@ inspectable prompt — useful for a viva/demo walkthrough.
 - History is kept only in the browser session (`st.session_state`); it is
   not persisted to disk. Adding a SQLite-backed history is listed as a
   possible extension in the in-app "About" page.
-=======
-# AI_Agents
->>>>>>> 0e33f19b87d3fb7e67279e080d719811948d3d40
